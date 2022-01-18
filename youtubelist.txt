@@ -14416,3 +14416,4 @@ rr1---sn-npoe7nss.googlevideo.com
 googleads.$~script,domain=~github.com|~github.io
 doubleclick.net^$third-party
 google.com/pagead/
+youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adPlacements', 'undefined')
