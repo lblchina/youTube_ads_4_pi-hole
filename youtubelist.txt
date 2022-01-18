@@ -9,9 +9,9 @@ youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.
 youtube.com#.ytd-player-legacy-desktop-watch-ads-renderer
 /pagead/lvz?
 youtube.com#.ytp-ad-progress-list
-youtube.com##merch-shelf
-youtube.com##player-ads
-youtube.com##offer-module
-youtube.com##YtKevlarVisibilityIdentifier
+youtube.com#merch-shelf
+youtube.com#player-ads
+youtube.com#offer-module
+youtube.com#YtKevlarVisibilityIdentifier
 #.badge-style-type-ad
 youtube.com##invideo-overlay\:0 > div.ytp-ad-overlay-container > div.ytp-ad-image-overlay:last-child > div.ytp-ad-overlay-image:last-child >
