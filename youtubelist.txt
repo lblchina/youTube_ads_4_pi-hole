@@ -14,4 +14,4 @@ youtube.com#player-ads
 youtube.com#offer-module
 youtube.com#YtKevlarVisibilityIdentifier
 #.badge-style-type-ad
-youtube.com#invideo-overlay\:0 > div.ytp-ad-overlay-container > div.ytp-ad-image-overlay:last-child > div.ytp-ad-overlay-image:last-child > img
+youtube.com#invideo-overlay\:0 > div.ytp-ad-overlay-container > div.ytp-ad-image-overlay:last-child > div.ytp-ad-overlay-image:last-child > 
