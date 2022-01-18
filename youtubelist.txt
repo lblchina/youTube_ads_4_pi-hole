@@ -14420,3 +14420,4 @@ youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', '
 youtube.com##ytm-companion-slot
 youtube.com###YtSparklesVisibilityIdentifier
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"]
+youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.adPlacements 0.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds')
