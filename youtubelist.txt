@@ -14413,3 +14413,6 @@ rr1---sn-i3belnl7.googlevideo.com
 r5---sn-i3belnlz.googlevideo.com
 rr4---sn-i3belnls.googlevideo.com
 rr1---sn-npoe7nss.googlevideo.com
+googleads.$~script,domain=~github.com|~github.io
+doubleclick.net^$third-party
+google.com/pagead/
