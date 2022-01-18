@@ -14,6 +14,7 @@ youtube.com###merch-shelf
 youtube.com###player-ads
 youtube.com###offer-module
 youtube.com###masthead-ad
+youtube.com###root
 ###YtKevlarVisibilityIdentifier
 ||.badge-style-type-ad
 ||pagead2.googlesyndication.com
