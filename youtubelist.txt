@@ -18,4 +18,4 @@ youtube.com###YtKevlarVisibilityIdentifier
 ||.badge-style-type-ad
 pagead2.googlesyndication.com
 /ad_break?
-###invideo-overlay\:0 > div.ytp-ad-overlay-container > div.ytp-ad-image-overlay:last-child > div.ytp-ad-overlay-image:last-child > img
+###invideo-overlay\:* > div.ytp-ad-overlay-container > div.ytp-ad-image-overlay:last-child > div.ytp-ad-overlay-image:last-child > 
