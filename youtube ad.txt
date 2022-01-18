@@ -1,0 +1,24 @@
+/googleads.$~script,domain=~github.com|~github.io
+||doubleclick.net^$third-party
+||google.com/pagead/
+||*.googlevideo.com
+||i.ytimg.com
+youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adPlacements', 'undefined')
+a[href^="https://www.googleadservices.com/pagead/aclk?"]
+youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.adPlacements 0.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds')
+/pagead/lvz?
+youtube.com###ytm-companion-slot
+youtube.com###YtSparklesVisibilityIdentifier
+youtube.com##.ytd-player-legacy-desktop-watch-ads-renderer
+youtube.com##.ytd-companion-slot-renderer
+youtube.com##.ytp-ad-progress-list
+youtube.com###merch-shelf
+youtube.com###player-ads
+youtube.com###offer-module
+youtube.com###masthead-ad
+###YtKevlarVisibilityIdentifier
+||.badge-style-type-ad
+||pagead2.googlesyndication.com
+/ad_break?
+###invideo-overlay\:* div.ytp-ad-image-overlay*
+/pagead2.googlesyndication.com
