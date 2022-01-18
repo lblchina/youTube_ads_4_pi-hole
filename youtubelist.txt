@@ -24,4 +24,4 @@ hao6v.cc##HMimageleft
 youku.com##uerCenter > div.u-login_PEt-Q:last-child > div.info-bottom_3C0mQ.show_C8p0e:last-child
 bilibili.com#div.lt-row:nth-child(12) > div.lt-col > div.login-tip
 bilibili.com#div.lt-row:last-child > div.lt-col > div.login-tip
-youtube.com##invideo-overlay\:0 > div.ytp-ad-overlay-container > div.ytp-ad-image-overlay:last-child > div.ytp-ad-overlay-image:last-child > img
+youtube.com##invideo-overlay\:0 > div.ytp-ad-overlay-container > div.ytp-ad-image-overlay:last-child > div.ytp-ad-overlay-image:last-child >
