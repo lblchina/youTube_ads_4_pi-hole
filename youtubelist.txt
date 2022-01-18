@@ -10,10 +10,10 @@ youtube.com##YtSparklesVisibilityIdentifier
 youtube.com##.ytd-player-legacy-desktop-watch-ads-renderer
 youtube.com##.ytd-companion-slot-renderer
 youtube.com##.ytp-ad-progress-list
-youtube.com##merch-shelf
-youtube.com##player-ads
-youtube.com##offer-module
-youtube.com##YtKevlarVisibilityIdentifier
+youtube.com###merch-shelf
+youtube.com###player-ads
+youtube.com###offer-module
+youtube.com###YtKevlarVisibilityIdentifier
 .badge-style-type-ad
 youtubekids.com,youtube-nocookie.com,youtube.com#invideo-overlay\:* ('div.ytp-ad-overlay-container', 'div.ytp-ad-image-overlay:last-child', 'div.ytp-ad-overlay-image:last-child')
 pagead2.googlesyndication.com
