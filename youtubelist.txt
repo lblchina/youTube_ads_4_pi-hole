@@ -8,6 +8,7 @@ youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.
 youtube.com#ytm-companion-slot
 youtube.com#YtSparklesVisibilityIdentifier
 youtube.com#.ytd-player-legacy-desktop-watch-ads-renderer
+youtube.com#.ytd-companion-slot-renderer
 youtube.com#.ytp-ad-progress-list
 youtube.com#merch-shelf
 youtube.com#player-ads
