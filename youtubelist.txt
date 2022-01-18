@@ -1,6 +1,7 @@
 /googleads.$~script,domain=~github.com|~github.io
 ||doubleclick.net^$third-party
 ||google.com/pagead/
+||*.googlevideo.com
 youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adPlacements', 'undefined')
 a[href^="https://www.googleadservices.com/pagead/aclk?"]
 youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.adPlacements 0.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds')
