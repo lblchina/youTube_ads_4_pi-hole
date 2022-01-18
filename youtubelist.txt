@@ -17,3 +17,4 @@ youtube.com##YtKevlarVisibilityIdentifier
 .badge-style-type-ad
 youtubekids.com,youtube-nocookie.com,youtube.com#invideo-overlay\:* ('div.ytp-ad-overlay-container', 'div.ytp-ad-image-overlay:last-child', 'div.ytp-ad-overlay-image:last-child')
 pagead2.googlesyndication.com
+/ad_break?
