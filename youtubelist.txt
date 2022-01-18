@@ -14,3 +14,13 @@ youtube.com###player-ads
 youtube.com###offer-module
 youtube.com###YtKevlarVisibilityIdentifier
 ##.badge-style-type-ad
+91tvg.com###hd > div.wp > div.a_mu:nth-child(5) > iframe:nth-child(2)
+91tvg.com###hd > div.wp > div.a_mu:nth-child(5) > a:last-child > img
+91tvg.com###hd > div.wp > div.a_mu:nth-child(5) > a:nth-child(4) > img
+91tvg.com###hd > div.wp > div.a_mu:nth-child(5) > iframe:nth-child(2)
+91tvg.com###hd > div.wp > div.a_mu:nth-child(5) > a:nth-child(3) > img
+hao6v.cc###HMimageright
+hao6v.cc###HMimageleft
+youku.com###uerCenter > div.u-login_PEt-Q:last-child > div.info-bottom_3C0mQ.show_C8p0e:last-child
+bilibili.com##div.lt-row:nth-child(12) > div.lt-col > div.login-tip
+bilibili.com##div.lt-row:last-child > div.lt-col > div.login-tip
