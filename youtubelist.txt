@@ -19,3 +19,4 @@ youtube.com###YtKevlarVisibilityIdentifier
 pagead2.googlesyndication.com
 /ad_break?
 ###invideo-overlay\:* div.ytp-ad-image-overlay-img
+/pagead2.googlesyndication.com
