@@ -17,6 +17,7 @@ youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.
 ###masthead-ad
 ###root
 ###YtKevlarVisibilityIdentifier
+###mount_0_0_\/9 > div:nth-child(2) > div:first-child > div.rq0escxv.l9j0dhe7.du4w35lb > div.rq0escxv.l9j0dhe7.du4w35lb:nth-child(6) > div.du4w35lb.l9j0dhe7.cbu4d94t.j83agx80 > div.j83agx80.cbu4d94t.l9j0dhe7.jgljxmt5.be9z9djy > div.j83agx80.cbu4d94t.d6urw2fd.dp1hu0rb.l9j0dhe7.du4w35lb:first-child > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.pfnyh3mw.taijpn5t.gs1a9yip.owycx6da.btwxx1t3.dp1hu0rb.p01isnhg:first-child > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.rj1gh0hx.buofh1pr.g5gj957u.hpfvmrgz.i1fnvgqd.ll8tlv6m.owycx6da.btwxx1t3.ho3ac9xt.dp1hu0rb.msh19ytf > div.rq0escxv.du4w35lb.o387gat7.qbu88020.pad24vr5.rirtxc74.dp1hu0rb.fer614ym.ni8dbmo4.stjgntxs.lpgh02oy.hlyrhctz.be9z9djy:last-child > div.rq0escxv.l9j0dhe7.du4w35lb.j83agx80.cbu4d94t.qowsmv63.dp1hu0rb > div.rpm2j7zs.k7i0oixp.gvuykj2m.j83agx80.cbu4d94t.ni8dbmo4.du4w35lb.q5bimw55.ofs802cu.pohlnb88.dkue75c7.mb9wzai9.d8ncny3e.buofh1pr.g5gj957u.tgvbjcpo.l56l04vs.r57mb794.kh7kg01d.eg9m0zos.c3g1iek1.l9j0dhe7.k4xni2cv > div.j83agx80.cbu4d94t.buofh1pr.l9j0dhe7:first-child > div.cxgpxx05:nth-child(2) > div:first-child > span:last-child > div > div.l9j0dhe7 > div.cxgpxx05.sj5x9vvc:nth-child(2)
 ||.badge-style-type-ad
 ||pagead2.googlesyndication.com
 /ad_break?
