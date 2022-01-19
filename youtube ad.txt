@@ -25,3 +25,5 @@ youtube.com###root
 ###hd > div.wp > div.a_mu:nth-child(5) > a:nth-child(3) > 
 ###hd > div.wp > div.a_mu:nth-child(5) > a:nth-child(4) > 
 ###hd > div.wp > div.a_mu:nth-child(5) > a:last-child > 
+###HMimageleft
+###HMimageright
