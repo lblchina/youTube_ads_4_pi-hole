@@ -6,16 +6,16 @@ youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', '
 a[href^="https://www.googleadservices.com/pagead/aclk?"]
 youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.adPlacements 0.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds')
 /pagead/lvz?
-youtube.com###ytm-companion-slot
-youtube.com###YtSparklesVisibilityIdentifier
-youtube.com##.ytd-player-legacy-desktop-watch-ads-renderer
-youtube.com##.ytd-companion-slot-renderer
-youtube.com##.ytp-ad-progress-list
-youtube.com###merch-shelf
-youtube.com###player-ads
-youtube.com###offer-module
-youtube.com###masthead-ad
-youtube.com###root
+###ytm-companion-slot
+###YtSparklesVisibilityIdentifier
+##.ytd-player-legacy-desktop-watch-ads-renderer
+##.ytd-companion-slot-renderer
+##.ytp-ad-progress-list
+###merch-shelf
+###player-ads
+###offer-module
+###masthead-ad
+###root
 ###YtKevlarVisibilityIdentifier
 ||.badge-style-type-ad
 ||pagead2.googlesyndication.com
