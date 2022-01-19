@@ -21,3 +21,4 @@ youtube.com###root
 /ad_break?
 ###invideo-overlay\:* div.ytp-ad-image-overlay*
 /pagead2.googlesyndication.com
+###hd > div.wp > div.a_mu:nth-child(5) > iframe:nth-child(2)
