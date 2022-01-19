@@ -22,6 +22,6 @@ youtube.com###root
 ###invideo-overlay\:* div.ytp-ad-image-overlay*
 /pagead2.googlesyndication.com
 ###hd > div.wp > div.a_mu:nth-child(5) > iframe:nth-child(2)
-###hd > div.wp > div.a_mu:nth-child(5) > a:nth-child(3) > img
-###hd > div.wp > div.a_mu:nth-child(5) > a:nth-child(4) > img
-###hd > div.wp > div.a_mu:nth-child(5) > a:last-child > img
+###hd > div.wp > div.a_mu:nth-child(5) > a:nth-child(3) > 
+###hd > div.wp > div.a_mu:nth-child(5) > a:nth-child(4) > 
+###hd > div.wp > div.a_mu:nth-child(5) > a:last-child > 
